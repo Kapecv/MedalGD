@@ -1,0 +1,11 @@
+{
+  "geode": "4.0.0",
+  "gd": {
+    "win": "2.2074"
+  },
+  "id": "majdzonesgd.medalgd",
+  "name": "MedalGD",
+  "version": "v1.0.0",
+  "developer": "majdzonesGD",
+  "description": "Mod do Geometry Dash: MedalGD"
+}
